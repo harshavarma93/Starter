@@ -1,0 +1,2 @@
+# Starter
+Just learning coding
